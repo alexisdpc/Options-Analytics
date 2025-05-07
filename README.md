@@ -1,4 +1,7 @@
-# Options-Analytics
+# Options Market Microstructure Analysis
+
+This repository provides tools and notebooks for analyzing the microstructure of the options market. Topics include order flow dynamics, bid-ask behavior, implied volatility surfaces, and liquidity patterns. Designed for quantitative researchers and traders interested in intraday market mechanics.
+
 
 ![image](https://github.com/user-attachments/assets/c9c0b77d-a5c0-44d1-8a7f-7958e5f4cca7)
 
