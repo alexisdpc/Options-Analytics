@@ -1,6 +1,13 @@
 # Options Market Microstructure Analysis
 
-This repository provides tools and notebooks for analyzing the microstructure of the options market. Topics include order flow dynamics, bid-ask behavior, implied volatility surfaces, and liquidity patterns. Designed for quantitative researchers and traders interested in intraday market mechanics.\
+This repository provides tools and notebooks for analyzing the microstructure of the options market. Topics include order flow dynamics, bid-ask behavior, implied volatility surfaces, and liquidity patterns. Designed for quantitative researchers and traders interested in (intraday) market mechanics.
+
+In the Figure below we show the bid ask spread in dollars as a function of the moneyness of the option
+
+$$ \text{Moneyness} = \log \left( \frac{K}{S_t} \right) $$ 
+
+on the left panel we show the spread for the options with 1 day to expiration (1DTE), while on the right panel for 10 DTE. Intraday quotes for SPX option on the date 2024-04-23.
+
 
 
 
