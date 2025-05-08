@@ -11,13 +11,15 @@ on the left panel we show the spread for the options with 1 day to expiration (1
 
 
 
-
-
 ![image](https://github.com/user-attachments/assets/c9c0b77d-a5c0-44d1-8a7f-7958e5f4cca7)
 
 ![image](https://github.com/user-attachments/assets/07c18612-9fce-495e-a2b7-6850540a917e)
 
 ![image](https://github.com/user-attachments/assets/f0aed7c9-0970-4995-be4c-fd201f54b367)
+
+
+
+Percentage spread: When we look specifically at out-of-the-money (OTM) options, their minimum bid-ask spread tends to be quite close to that of at-the-money (ATM) options. On the other hand, the deep in-the-money (ITM) options generally exhibit tighter spreads.
 
 
 
