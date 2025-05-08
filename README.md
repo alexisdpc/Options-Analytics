@@ -23,7 +23,8 @@ Percentage spread: When we look specifically at out-of-the-money (OTM) options, 
 
 
 
-![image](https://github.com/user-attachments/assets/669cd2b7-0978-439e-8cfd-f3a6584ceee6)
+![image](https://github.com/user-attachments/assets/179347c1-726c-499e-a268-0731b3f7bdc2)
+
 
 
 
