@@ -23,6 +23,8 @@ In the figure below we show the spread in Percentage (%) of the mid price (bid+a
 
 # Trading Volume
 
+Options near the at-the-money (ATM) options have the highest trading volume because they exhibit the greatest sensitivity to changes in the underlying asset's price, attracting both speculators seeking to capitalize on potential price movements and hedgers looking for effective risk management tools. This high level of interest and activity around ATM options leads to tighter bid-ask spreads and greater liquidity compared to in-the-money or out-of-the-money options
+
 ![image](https://github.com/user-attachments/assets/179347c1-726c-499e-a268-0731b3f7bdc2)
 
 
