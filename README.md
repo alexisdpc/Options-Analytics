@@ -35,6 +35,8 @@ https://www.newyorkfed.org/markets/reference-rates/sofr
 
 ![image](https://github.com/user-attachments/assets/b37ec7eb-a622-4e8f-bf7e-e2af3549566f)
 
+# Spread for Index Futures
+
 
 
 
