@@ -4,6 +4,8 @@ This repository provides tools and notebooks for analyzing the microstructure of
 
 # Bid/Ask Spread
 
+The bid-ask spread in options trading represents the difference between the highest price a buyer is willing to pay (the bid) and the lowest price a seller is willing to accept (the ask) for 1  an option contract. This spread essentially reflects the transaction cost for traders, as buyers will typically pay the ask price, and sellers will receive the bid price. The width of the bid-ask spread is a key indicator of an option's liquidity, with narrower spreads suggesting higher liquidity and lower transaction costs, while wider spreads indicate lower liquidity and potentially higher costs. 
+
 In the Figure below we show the bid ask spread in dollars as a function of the moneyness of the option
 
 $$ \text{Moneyness} = \log \left( \frac{K}{S_t} \right) $$ 
