@@ -30,6 +30,9 @@ Percentage spread: When we look specifically at out-of-the-money (OTM) options, 
 
 # Put Call Parity
 
+![image](https://github.com/user-attachments/assets/b37ec7eb-a622-4e8f-bf7e-e2af3549566f)
+
+
 
 
 
