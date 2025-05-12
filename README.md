@@ -12,8 +12,7 @@ $$ \text{Moneyness} = \log \left( \frac{K}{S_t} \right) $$
 
 on the left panel we show the spread for the options with 1 day to expiration (1DTE), while on the right panel for 10 DTE. Intraday quotes for SPX option on the date 2024-04-23.
 
-
-![image](https://github.com/user-attachments/assets/9f83064e-56a2-48fb-866f-a6846182344d)
+![image](https://github.com/user-attachments/assets/84c4a485-aa16-4fee-93db-ccd09fc25e57)
 
 
 In the figure below we show the spread in Percentage (%) of the mid price (bid+ask)/2.  When we look specifically at out-of-the-money (OTM) options, their minimum bid-ask spread tends to be quite close to that of at-the-money (ATM) options. On the other hand, the deep in-the-money (ITM) options generally exhibit tighter spreads.
