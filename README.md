@@ -26,6 +26,12 @@ In the figure below we show the spread in Percentage (%) of the mid price (bid+a
 
 # Put Call Parity
 
+Put-call parity is a fundamental principle in options pricing theory that establishes a crucial relationship between the prices of European call and put options with the same underlying asset, strike price, and expiration  date. The put-call parity equation is given by
+
+$$ C - P = S $$
+
+This no-arbitrage condition dictates that a specific portfolio consisting of these options and the underlying asset must yield a return equivalent to the risk-free rate. Understanding put-call parity is essential for option traders and investors as it provides a benchmark for identifying potential arbitrage opportunities and for constructing various hedging and speculation strategies.
+
 The reference rates are obtained from:
 https://www.newyorkfed.org/markets/reference-rates/sofr
 
