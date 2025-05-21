@@ -42,7 +42,7 @@ https://www.newyorkfed.org/markets/reference-rates/sofr
 
 # Volatility Smile
 
-![image](https://github.com/user-attachments/assets/0199a58a-2451-4eb5-88a6-61584912fe13)
+![image](https://github.com/user-attachments/assets/54bd1ba2-d214-43b3-8996-adf44990855d)
 
 
 
