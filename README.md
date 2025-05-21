@@ -40,6 +40,12 @@ https://www.newyorkfed.org/markets/reference-rates/sofr
 
 ![image](https://github.com/user-attachments/assets/b37ec7eb-a622-4e8f-bf7e-e2af3549566f)
 
+# Volatility Smile
+
+![image](https://github.com/user-attachments/assets/0199a58a-2451-4eb5-88a6-61584912fe13)
+
+
+
 # Spread for Index Futures
 
 
