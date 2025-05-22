@@ -40,7 +40,7 @@ https://www.newyorkfed.org/markets/reference-rates/sofr
 
 ![image](https://github.com/user-attachments/assets/b37ec7eb-a622-4e8f-bf7e-e2af3549566f)
 
-# Volatility Smile
+# Implied Volatility and the Greeks
 
 ![image](https://github.com/user-attachments/assets/54bd1ba2-d214-43b3-8996-adf44990855d)
 
