@@ -42,6 +42,20 @@ https://www.newyorkfed.org/markets/reference-rates/sofr
 
 # Implied Volatility and the Greeks
 
+The following table summarizes the theoretical price and the key Greeks (i.e., sensitivities to various parameters) for European call and put options, derived using the Black-Scholes-Merton model with continuous dividend yield.
+
+| Greek / Price | Call Option Formula                                                                                 | Put Option Formula                                                                                  |
+|---------------|------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| **Fair Value**| $$C = S e^{-qT} N(d_1) - K e^{-rT} N(d_2)$$                                                           | $$P = K e^{-rT} N(-d_2) - S e^{-qT} N(-d_1)$$                                                         |
+| **Delta (Δ)** | $$\Delta_C = e^{-qT} N(d_1)$$                                                                         | $$\Delta_P = e^{-qT} (N(d_1) - 1)$$                                                                   |
+| **Gamma (Γ)** | $$\Gamma = \frac{e^{-qT} N'(d_1)}{S \sigma \sqrt{T}}$$                                                | $$\Gamma = \frac{e^{-qT} N'(d_1)}{S \sigma \sqrt{T}}$$ (same as call)                               |
+| **Theta (Θ)** | $$\Theta_C = -\frac{S e^{-qT} N'(d_1) \sigma}{2 \sqrt{T}} + q S e^{-qT} N(d_1) - r K e^{-rT} N(d_2)$$ | $$\Theta_P = -\frac{S e^{-qT} N'(d_1) \sigma}{2 \sqrt{T}} - q S e^{-qT} N(-d_1) + r K e^{-rT} N(-d_2)$$ |
+| **Vega (ν)**  | $$\nu = S e^{-qT} N'(d_1) \sqrt{T}$$                                                                  | $$\nu = S e^{-qT} N'(d_1) \sqrt{T}$$ (same as call)                                                 |
+| **Rho (ρ)**   | $$\rho_C = K T e^{-rT} N(d_2)$$                                                                       | $$\rho_P = -K T e^{-rT} N(-d_2)$$                                                                    |
+
+
+
+
 ![image](https://github.com/user-attachments/assets/54bd1ba2-d214-43b3-8996-adf44990855d)
 
 
