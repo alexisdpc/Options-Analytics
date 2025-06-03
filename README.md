@@ -53,6 +53,12 @@ The following table summarizes the theoretical price and the key Greeks (i.e., s
 | **Vega (ν)**  | $$\nu = S e^{-qT} N'(d_1) \sqrt{T}$$                                                                  | $$\nu = S e^{-qT} N'(d_1) \sqrt{T}$$ (same as call)                                                 |
 | **Rho (ρ)**   | $$\rho_C = K T e^{-rT} N(d_2)$$                                                                       | $$\rho_P = -K T e^{-rT} N(-d_2)$$                                                                    |
 
+The parameters $d_1$ and $d_2$ in the Black-Scholes model are given by:
+
+$$ d_1 = \frac{\ln\left(\frac{S}{K}\right) + \left(r + \frac{\sigma^2}{2}\right)T}{\sigma \sqrt{T}} $$
+
+$$d_2 = d_1 - \sigma \sqrt{T}$$
+
 
 
 
