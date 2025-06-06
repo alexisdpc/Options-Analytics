@@ -65,6 +65,9 @@ $$d_2 = d_1 - \sigma \sqrt{T}$$
 
 ![image](https://github.com/user-attachments/assets/54bd1ba2-d214-43b3-8996-adf44990855d)
 
+![image](https://github.com/user-attachments/assets/5d0d1476-29ec-40ba-8464-d039f2eeb1d0)
+
+
 
 
 # Spread for Index Futures
