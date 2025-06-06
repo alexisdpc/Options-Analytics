@@ -61,11 +61,10 @@ $$ d_1 = \frac{\ln\left(\frac{S}{K}\right) + \left(r + \frac{\sigma^2}{2}\right)
 $$d_2 = d_1 - \sigma \sqrt{T}$$
 
 
-
-
 ![image](https://github.com/user-attachments/assets/54bd1ba2-d214-43b3-8996-adf44990855d)
 
-![image](https://github.com/user-attachments/assets/5d0d1476-29ec-40ba-8464-d039f2eeb1d0)
+![image](https://github.com/user-attachments/assets/84b24a2a-a306-4dd9-b6e9-762f8fc8668f)
+
 
 
 
