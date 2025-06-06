@@ -38,7 +38,8 @@ This no-arbitrage condition dictates that a specific portfolio consisting of the
 The reference rates are obtained from:
 https://www.newyorkfed.org/markets/reference-rates/sofr
 
-![image](https://github.com/user-attachments/assets/b37ec7eb-a622-4e8f-bf7e-e2af3549566f)
+![image](https://github.com/user-attachments/assets/4b5081b9-8029-4f20-9fc9-2839a8501a3d)
+
 
 # Implied Volatility and the Greeks
 
