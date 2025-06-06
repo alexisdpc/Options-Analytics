@@ -31,7 +31,7 @@ Options near the at-the-money (ATM) options have the highest trading volume beca
 
 Put-call parity is a fundamental principle in options pricing theory that establishes a crucial relationship between the prices of European call and put options with the same underlying asset, strike price, and expiration  date. The put-call parity equation is given by
 
-$$ C - P = S $$
+$$ C - P = S - K e^{-r(T-t)}$$
 
 This no-arbitrage condition dictates that a specific portfolio consisting of these options and the underlying asset must yield a return equivalent to the risk-free rate. Understanding put-call parity is essential for option traders and investors as it provides a benchmark for identifying potential arbitrage opportunities and for constructing various hedging and speculation strategies.
 
