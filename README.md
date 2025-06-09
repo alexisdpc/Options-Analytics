@@ -65,7 +65,8 @@ $$d_2 = d_1 - \sigma \sqrt{T}$$
 
 ![image](https://github.com/user-attachments/assets/54bd1ba2-d214-43b3-8996-adf44990855d)
 
-![image](https://github.com/user-attachments/assets/02f7a990-54af-4300-a141-802e6be4c5db)
+![image](https://github.com/user-attachments/assets/71727c98-afda-4007-801c-01cd32b013e7)
+
 
 
 
