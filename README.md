@@ -58,7 +58,7 @@ The following table summarizes the theoretical price and the key Greeks (i.e., s
 
 The parameters $d_1$ and $d_2$ in the Black-Scholes model are given by:
 
-$$ d_1 = \frac{\ln\left(\frac{S}{K}\right) + \left(r + \frac{\sigma^2}{2}\right)T}{\sigma \sqrt{T}} $$
+$$ d_1 = \frac{\ln\left(\frac{S}{K}\right) + \left(r - q + \frac{\sigma^2}{2}\right)T}{\sigma \sqrt{T}} $$
 
 $$d_2 = d_1 - \sigma \sqrt{T}$$
 
