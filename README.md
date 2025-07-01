@@ -80,6 +80,10 @@ In contrast, intermediate-term IV tends to dip, indicating that traders foresee 
 ![image](https://github.com/user-attachments/assets/71727c98-afda-4007-801c-01cd32b013e7)
 
 
+![image](https://github.com/user-attachments/assets/b0baa41d-fa99-4c6b-a929-4fedef56a395)
+
+
+
 
 
 
