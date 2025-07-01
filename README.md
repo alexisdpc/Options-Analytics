@@ -79,6 +79,9 @@ In contrast, intermediate-term IV tends to dip, indicating that traders foresee 
 
 ![image](https://github.com/user-attachments/assets/71727c98-afda-4007-801c-01cd32b013e7)
 
+The figures below show the bid prices of SPX calls and puts as a function of time to expiration. Bid prices increase almost monotonically with days to expiration, demonstrating the fundamental concept of *time value* in options pricing (theta is always negative). 
+
+Longer expiration periods provide greater opportunity for favorable price movements, making options with more time inherently more valuable. This relationship is consistent across all strike prices, with the steepest increases occurring in the first 30-60 days, reflecting the non-linear nature of time decay in options valuation.
 
 ![image](https://github.com/user-attachments/assets/80037d55-a58c-4c99-a6d0-2a9ea19508fa)
 
