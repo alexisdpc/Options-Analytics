@@ -86,6 +86,10 @@ Longer expiration periods provide greater opportunity for favorable price moveme
 ![image](https://github.com/user-attachments/assets/80037d55-a58c-4c99-a6d0-2a9ea19508fa)
 
 
+![image](https://github.com/user-attachments/assets/d8543cbc-43d9-46a8-aec3-9fec0f85e3f1)
+
+
+
 
 
 
