@@ -72,6 +72,9 @@ $$d_2 = d_1 - \sigma \sqrt{T}$$
 
 ![image](https://github.com/user-attachments/assets/54bd1ba2-d214-43b3-8996-adf44990855d)
 
+![image](https://github.com/user-attachments/assets/07ecff2b-730e-416f-a1f3-76e260174ac6)
+
+
 In the figure below we shoe the term structure for call options on the SPX. The term structure of implied volatility (IV) often reflects shifting market expectations. When short-term IV spikes, it usually signals immediate uncertainty, such as upcoming economic data releases, earnings, or recent market stress—leading to heightened demand for short-dated options as protection. 
 
 In contrast, intermediate-term IV tends to dip, indicating that traders foresee a period of stabilization or reduced volatility once near-term risks subside. Interestingly, long-term IV often rises again, capturing broader concerns like recession risks, inflation, or political uncertainty. This uptick also reflects structural demand from institutions seeking long-dated hedges, contributing to higher pricing for options with extended maturities.
