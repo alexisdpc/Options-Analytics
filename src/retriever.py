@@ -5,7 +5,7 @@ import csv
 import datetime as dt
 import QuantLib as ql
 import yfinance as yf
-import httpx  # install via pip install httpx
+import httpx 
 import csv
 import polars as pl
 
@@ -122,6 +122,7 @@ class retriever:
                 params = None
             else:
                 url = None
+
         self.opt_exp_schedule = [
             ql.Date(int(dt[0][6:]), int(dt[0][4:6]), int(dt[0][:4]))
             for dt in list_expirations
@@ -146,8 +147,10 @@ class retriever:
             dt.datetime(dt_.year(), dt_.month(), dt_.dayOfMonth()).date()
             for dt_ in schedule
         ]
+
         expiration_dates = pd.DataFrame(index=expiration_dates).sort_index()
         expiration_dates.reset_index(inplace=True)
+
         list_mkt_date = [
             date_.date() for date_ in pd.date_range(start_date, end_date, freq="B")
         ]
@@ -162,8 +165,10 @@ class retriever:
                 ]
             for df_index, fix_date in exp_dt.iterrows():
                 error_no_market_data = False
+
                 if ref_price_underlying is None:
                     ref_price_underlying = "Open"
+
                 elif ref_price_underlying == "Open":
                     try:
                         ref_price = data[
@@ -176,6 +181,7 @@ class retriever:
                         ]["Open"].values[0]
                     except:
                         print(f"ERROR IN GETTING THE OPEN PRICE - {retrieve_date}")
+                
                 elif ref_price_underlying == "Close":
                     try:
                         ref_price = data[
@@ -188,7 +194,9 @@ class retriever:
                         ]["Close"].values[0]
                     except:
                         print(f"ERROR IN GETTING THE CLOSE PRICE - {retrieve_date}")
+                
                 list_strikes = []
+                
                 for strike in [(self.strikes_put, "P"), (self.strikes_call, "C")]:
                     if (
                         not strike[0] is None
