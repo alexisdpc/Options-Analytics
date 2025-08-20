@@ -99,12 +99,3 @@ The figure below shows the same as before but with mid prices instead of bid. He
 
 
 
-# Spread for Index Futures
-
-
-
-
-
-
-
-
