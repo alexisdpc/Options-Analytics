@@ -11,5 +11,11 @@ streamlit run delta_hedge_sim.py
 
 ## Parameters 🎛️
 
-- Spot, strike, maturity, r, σ, μ
-- Path count, step size, hedge freq
+- Spot, strike, maturity, implied & realized volatility
+- Option type, option position
+
+
+## Example
+
+<img width="585" height="748" alt="image" src="https://github.com/user-attachments/assets/5df1a0b4-be3c-485d-bbed-49eee7a9256e" />
+
