@@ -17,5 +17,4 @@ streamlit run delta_hedge_sim.py
 
 ## Example
 
-<img width="585" height="748" alt="image" src="https://github.com/user-attachments/assets/5df1a0b4-be3c-485d-bbed-49eee7a9256e" />
-
+<img width="579" height="742" alt="image" src="https://github.com/user-attachments/assets/a9889439-37b9-43c3-ba8e-17aafbaa14a3" />
