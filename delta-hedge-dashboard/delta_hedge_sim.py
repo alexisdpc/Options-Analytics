@@ -168,10 +168,9 @@ with col7:
     option_position = st.selectbox('Option Position', options=['Long', 'Short'], index=0)
 
 # Buttons for simulation control
-init_btn, next_btn, summary_btn, reset_btn = st.columns(4)
+init_btn, next_btn, reset_btn = st.columns(3)
 initialize = init_btn.button('Initialize Simulation')
 next_day   = next_btn.button('Next Day')
-show_summary = summary_btn.button('Show Summary')
 reset_sim  = reset_btn.button('Reset Simulation')
 
 # ---------- Stateful data --------------------------------------------------------
@@ -296,7 +295,7 @@ if len(st.session_state.S_path) > 1:
         st.pyplot(fig3)
 
 # ---------- Summary + Results tables --------------------------------------------
-if show_summary and st.session_state.option_prices:
+if st.session_state.option_prices:
     st.subheader('Simulation Summary')
 
     # realised vol from path
@@ -364,4 +363,3 @@ if show_summary and st.session_state.option_prices:
                                           'Total Daily P/L': '{:.2f}',
                                           'Running Total P/L': '{:.2f}'}))
 
-st.caption('Educational demonstration only – not investment advice.')
