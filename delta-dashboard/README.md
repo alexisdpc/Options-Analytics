@@ -1,3 +1,5 @@
 ## delta dashnoard
 
-streamlit run delta_hedge_sim.py
+To run the dashboard:
+
+`streamlit run delta_hedge_sim.py`
