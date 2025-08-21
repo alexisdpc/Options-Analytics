@@ -7,9 +7,8 @@ This project provides a simple yet powerful pipeline for financial options analy
 The ultimate goal is to provide a clean, modular foundation for building more complex trading strategies, risk management systems, or academic research models.
 
 Other projects in this repository include:
-- Adverse Selection Detection Algorithm
-- Delta Hedging Stock Simulation 
-
+- [Adverse Selection Detection Algorithm](https://github.com/alexisdpc/Options-Analytics/tree/main/adverse-selection)
+- [Delta Hedging Stock Simulation](https://github.com/alexisdpc/Options-Analytics/tree/main/delta-hedge-dashboard)
 
 # Options Market Microstructure Analysis
 
