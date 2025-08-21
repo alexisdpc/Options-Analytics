@@ -42,7 +42,7 @@ Informed trades are identified using:
 ## Expected Results
 
 ### Performance Metrics
-- **ROC-AUC Score**: Target > 0.80 for practical trading applications
+- **ROC-AUC Score**: Target > 0.70 for practical trading applications
 - **Precision**: Minimize false positives to avoid unnecessary spread widening
 - **Recall**: Capture majority of informed trades to protect against adverse selection
 - **F1-Score**: Balance between precision and recall for optimal trading performance
