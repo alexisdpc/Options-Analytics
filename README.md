@@ -1,8 +1,8 @@
 # Options Analytics
 
 This project provides a simple yet powerful pipeline for financial options analysis. It is designed to handle the two primary stages of quantitative options research:
-- `retriever.py`: This file contains the modules responsible for connecting to and retrieving options data from the data provider, ThetaData.
-- `greeks.py`: This file reads the raw market options data and calculates all the Greeks (Delta, Gamma, Theta, Vega, Rho) for every option contract using the Black-Scholes approach.
+- `greeks/retriever.py`: This file contains the modules responsible for connecting to and retrieving options data from the data provider, ThetaData.
+- `greeks/greeks.py`: This file reads the raw market options data and calculates all the Greeks (Delta, Gamma, Theta, Vega, Rho) for every option contract using the Black-Scholes approach.
 
 The ultimate goal is to provide a clean, modular foundation for building more complex trading strategies, risk management systems, or academic research models.
 
